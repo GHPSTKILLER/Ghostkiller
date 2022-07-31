@@ -1,0 +1,2 @@
+# Ghostkiller
+KillerGhost
